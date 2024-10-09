@@ -1,0 +1,15 @@
+.foo,.bar{
+    color:yellowgreen;
+}
+
+.abuelo .nieto {
+    color:orangered;
+}
+
+#outer a{
+    background-color: orangered
+}
+
+#outer #inner a{
+    background-color: violet    
+}
